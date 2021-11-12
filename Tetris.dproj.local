@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.05.10 19:52:11.701.pas,C:\Users\mrlz\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\mrlz\Desktop\Tetris\Unit4.pas</Transaction>
+    <Transaction>2016.05.10 19:52:11.707.dfm,C:\Users\mrlz\Documents\RAD Studio\Projects\Unit4.dfm=C:\Users\mrlz\Desktop\Tetris\Unit4.dfm</Transaction>
+    <Transaction>2016.05.10 19:52:13.807.pas,C:\Users\mrlz\Documents\RAD Studio\Projects\Unit6.pas=C:\Users\mrlz\Desktop\Tetris\Unit6.pas</Transaction>
+    <Transaction>2016.05.10 19:52:13.807.dfm,C:\Users\mrlz\Documents\RAD Studio\Projects\Unit6.dfm=C:\Users\mrlz\Desktop\Tetris\Unit6.dfm</Transaction>
+    <Transaction>2016.05.10 19:52:15.565.dproj,C:\Users\mrlz\Documents\RAD Studio\Projects\Project3.dproj=C:\Users\mrlz\Desktop\Tetris\Project3.dproj</Transaction>
+    <Transaction>2016.05.11 20:54:04.329.dproj,C:\Users\mrlz\Desktop\Tetris\Project3.dproj=C:\Users\mrlz\Desktop\Tetris\Tetris.dproj</Transaction>
+    <Transaction>2016.05.12 04:16:21.371.dproj,C:\Users\mrlz\Desktop\Tetris\Tetris.dproj=C:\Users\mrlz\Desktop\Tetris\Tetris.dproj</Transaction>
+    <Transaction>2016.05.13 20:43:48.343.dproj,C:\Users\mrlz\Desktop\Tetris\Tetris.dproj=C:\Users\mrlz\Desktop\Tetris\Tetris.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
